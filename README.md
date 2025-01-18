@@ -82,6 +82,7 @@ Enter the second number: 10
 
 - **`calculator.py`**: Contains the main program logic.
 - **`README.md`**: Documentation (this file).
+- **`art.py`**: Contains the calculator art.
 
 ---
 
